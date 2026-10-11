@@ -69,7 +69,6 @@ El código aplica una separación estricta de responsabilidades (*Separation of 
 ├── Modulos independientes _estadistica descriptiva_Cecil Quimey Azuara Yañez.pdf  # Reporte técnico en PDF
 └── README.md                            # Documentación principal del repositorio
 
-´´´ 
 ---
 
 ## Modos de interfaz y salida modular
