@@ -1,0 +1,2 @@
+# Implementacion-de-modulos-independientes-enfocados-en-tareas-especificas-de-estadistica-descriptiva
+Estructuración e implementación de un paquete jerárquico modular en Python (estadisitica analitica lib) orientado al análisis estadístico de datos agrupados. El sistema fue desarrollado siguiendo el patrón de diseño de doble contexto, permitiendo su funcionamiento tanto como una librería reutilizable como un script de auditoría autónoma.
